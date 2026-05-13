@@ -139,6 +139,7 @@ React.js • TypeScript • Lottie
 
 🔗 Repositório: https://github.com/DavidVilela1/pdcompeticoes-landing
 ▲ Deploy: https://pdcompeticoes-landing.vercel.app/
+
 ---
 
 ## 🔥 Atualmente focado em
