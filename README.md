@@ -123,6 +123,22 @@ HTML • CSS
 🔗 Repositório: https://github.com/DavidVilela1/portfolio-davidvilela-webdev
 ▲ Deploy: https://davidvilela1.github.io/portfolio-davidvilela-webdev/
 
+## 🏎️ Landing-page para PDCompetições
+
+Landing-page para equipa de automobilismo para apresentar pilotos, staff, carros e proximas competições.
+
+### 🔹 Features
+- Design moderno e interactivo
+- Imagens animadas com Lottie
+- Visualmente congruente com automobilismo
+
+### 🛠 Tecnologias
+React.js • TypeScript • Lottie
+
+🚧 Projeto em desenvolvimento
+
+🔗 Repositório: https://github.com/DavidVilela1/pdcompeticoes-landing
+▲ Deploy: https://pdcompeticoes-landing.vercel.app/
 ---
 
 ## 🔥 Atualmente focado em
