@@ -106,6 +106,8 @@ Next.js • TypeScript • TailwindCSS
 🔗 Repositório: https://github.com/DavidVilela1/pdacademia-campus
 ▲ Deploy: https://pdacademia-campus.vercel.app/
 
+---
+
 ## 🌐 Portfolio Pessoal
 
 Website de portfólio desenvolvido para apresentar os meus projetos, competências e evolução como desenvolvedor web.
@@ -122,6 +124,8 @@ HTML • CSS
 
 🔗 Repositório: https://github.com/DavidVilela1/portfolio-davidvilela-webdev
 ▲ Deploy: https://davidvilela1.github.io/portfolio-davidvilela-webdev/
+
+---
 
 ## 🏎️ Landing-page para PDCompetições
 
