@@ -88,8 +88,8 @@ Next.js • TypeScript • TailwindCSS
  
 🚧 Project in development
  
-🔗 Repository: https://github.com/DavidVilela1/pdacademia-campus
-▲ Deploy: https://pdacademia-campus.vercel.app/
+🔗 Repository: https://github.com/DavidVilela1/pdacademia-campus-v2.0
+▲ Deploy: https://pdacademia-campus-v2-0.vercel.app/
  
 ---
  
