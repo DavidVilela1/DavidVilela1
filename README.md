@@ -24,7 +24,15 @@ Currently deepening my knowledge in:
 - Frontend Architecture
 - UI/UX Design
 ---
- 
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidVilela1&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVilela1&layout=compact&theme=tokyonight)
+
+---
+
 # 📌 Featured Projects
  
 ## 🚗 PDAuto Website
