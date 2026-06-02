@@ -66,7 +66,6 @@ Currently deepening my knowledge in:
  
 ## 🎯 Current Focus
  
-<div align="center">
 | Area | Status |
 | --- | --- |
 | React Ecosystem | 🔥 Active |
@@ -76,8 +75,7 @@ Currently deepening my knowledge in:
 | UI/UX Design | 🎨 Practising |
 | REST APIs | 🔌 Integrating |
 | Full Stack Development | 🚀 Building Towards |
- 
-</div>
+
 ---
  
 ## 🌐 Find Me Online
