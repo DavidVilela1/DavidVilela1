@@ -11,7 +11,7 @@
 <i>Based in Portugal 🇵🇹 · Open to exciting opportunities 🚀</i>
  
 </div>
----
+<hr/>
  
 ## 🧠 About Me
  
@@ -26,7 +26,7 @@ Currently deepening my knowledge in:
 - ▲ **Next.js** for full-stack and SSR experiences
 - 🎨 **UI/UX Design** principles & Figma
 - 🔌 **REST APIs** & Frontend Architecture
----
+<hr/>
  
 ## 🚀 Tech Stack
  
@@ -51,7 +51,7 @@ Currently deepening my knowledge in:
 <img src="https://img.shields.io/badge/VS%20Code-0a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=ff6b00" />
 <img src="https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ff6b00" />
 </div>
----
+<hr/>
  
 ## 📊 GitHub Stats
  
@@ -62,7 +62,7 @@ Currently deepening my knowledge in:
  
 <img src="https://streak-stats.demolab.com?user=DavidVilela1&theme=dark&hide_border=true&ring=ff6b00&fire=ff6b00&currStreakLabel=ff6b00" />
 </div>
----
+<hr/>
  
 ## 🎯 Current Focus
  
@@ -79,7 +79,7 @@ Currently deepening my knowledge in:
 </table>
 </div>
 
----
+<hr/>
  
 ## 🌐 Find Me Online
  
@@ -89,7 +89,7 @@ Currently deepening my knowledge in:
 <a href="mailto:vileladavid112@gmail.com"><img src="https://img.shields.io/badge/Email-vileladavid112%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff6b00" /></a>
  
 </div>
----
+<hr/>
  
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:1a1a1a,100:0a0a0a&height=100&section=footer&animation=fadeIn"/>
