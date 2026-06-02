@@ -63,6 +63,13 @@
 <img src="https://streak-stats.demolab.com?user=DavidVilela1&theme=dark&hide_border=true&ring=ff6b00&fire=ff6b00&currStreakLabel=ff6b00" />
 </div>
 <hr/>
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVilela1&bg_color=0d1117&color=ff6b00&line=ff6b00&point=ffffff&area=true&hide_border=true" />
+</p>
+<hr/>
  
 ## 🎯 Current Focus
  
@@ -87,7 +94,13 @@
 <a href="https://www.davidvilelawebdev.com/"><img src="https://img.shields.io/badge/Portfolio-davidvilelawebdev.com-ff6b00?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/davidvilelawebdev/"><img src="https://img.shields.io/badge/LinkedIn-davidvilelawebdev-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff6b00" /></a>&nbsp;
 <a href="mailto:vileladavid112@gmail.com"><img src="https://img.shields.io/badge/Email-vileladavid112%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff6b00" /></a>
- 
+</div>
+<hr/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+![Snake animation](https://github.com/DavidVilela1/DavidVilela1/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
  
 <div align="center">
