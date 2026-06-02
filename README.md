@@ -15,17 +15,17 @@
  
 ## 🧠 About Me
  
-Hey there! I'm **David**, a junior web developer passionate about crafting clean, performant, and visually polished interfaces.
- 
-I've been building real-world websites and landing pages for brands and businesses, with a strong focus on **user experience**, **modern design**, and **code quality**.
- 
-Currently deepening my knowledge in:
- 
-- ⚛️ **React** & the modern frontend ecosystem
-- 🔷 **TypeScript** for scalable, type-safe development
-- ▲ **Next.js** for full-stack and SSR experiences
-- 🎨 **UI/UX Design** principles & Figma
-- 🔌 **REST APIs** & Frontend Architecture
+<div align="center">
+ <p>Hey there! I'm <strong>David</strong>, a junior web developer passionate about crafting clean, performant, and visually polished interfaces.</p>
+ <p>I've been building real-world websites and landing pages for brands and businesses,<br/>with a strong focus on <strong>user experience</strong>, <strong>modern design</strong>, and <strong>code quality</strong>.</p>
+ <p>
+ ⚛️ <strong>React</strong> & the modern frontend ecosystem &nbsp;·&nbsp;
+ 🔷 <strong>TypeScript</strong> for scalable, type-safe development &nbsp;·&nbsp;
+ ▲ <strong>Next.js</strong> for full-stack and SSR experiences<br/>
+ 🎨 <strong>UI/UX Design</strong> principles & Figma &nbsp;·&nbsp;
+ 🔌 <strong>REST APIs</strong> & Frontend Architecture
+ </p>
+</div>
 <hr/>
  
 ## 🚀 Tech Stack
