@@ -100,7 +100,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-![Snake animation](https://raw.githubusercontent.com/DavidVilela1/DavidVilela1/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/DavidVilela1/DavidVilela1/output/github-snake-dark.svg" alt="Snake animation">
 </div>
  
 <div align="center">
