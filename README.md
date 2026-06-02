@@ -66,15 +66,18 @@ Currently deepening my knowledge in:
  
 ## 🎯 Current Focus
  
-| Area | Status |
-| --- | --- |
-| React Ecosystem | 🔥 Active |
-| Next.js & SSR | 🔥 Active |
-| TypeScript | 🔥 Active |
-| Frontend Architecture | 📚 Learning |
-| UI/UX Design | 🎨 Practising |
-| REST APIs | 🔌 Integrating |
-| Full Stack Development | 🚀 Building Towards |
+<div align="center">
+<table>
+  <tr><th>Area</th><th>Status</th></tr>
+  <tr><td>React Ecosystem</td><td>🔥 Active</td></tr>
+  <tr><td>Next.js & SSR</td><td>🔥 Active</td></tr>
+  <tr><td>TypeScript</td><td>🔥 Active</td></tr>
+  <tr><td>Frontend Architecture</td><td>📚 Learning</td></tr>
+  <tr><td>UI/UX Design</td><td>🎨 Practising</td></tr>
+  <tr><td>REST APIs</td><td>🔌 Integrating</td></tr>
+  <tr><td>Full Stack Development</td><td>🚀 Building Towards</td></tr>
+</table>
+</div>
 
 ---
  
