@@ -11,7 +11,7 @@
 <i>Based in Portugal 🇵🇹 · Open to exciting opportunities 🚀</i>
  
 </div>
-<hr/>
+
  
 ## 🧠 About Me
  
@@ -89,7 +89,6 @@ Currently deepening my knowledge in:
 <a href="mailto:vileladavid112@gmail.com"><img src="https://img.shields.io/badge/Email-vileladavid112%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff6b00" /></a>
  
 </div>
-<hr/>
  
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:1a1a1a,100:0a0a0a&height=100&section=footer&animation=fadeIn"/>
