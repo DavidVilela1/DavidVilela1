@@ -1,6 +1,6 @@
 # David Vilela
 
-**Software Developer, UI/UX Designer**
+**Software Developer that actually enjoys computers**
 
 I care about **how things work** and also **how things feel**.
 
