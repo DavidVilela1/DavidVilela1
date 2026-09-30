@@ -12,7 +12,7 @@ Currently working mostly with TypeScript, React, Next.js, Node.js and PostgreSQL
 
 `TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL`
 `.NET` · `C#` · `Python` · `Docker` · `AWS`
-`Figma` · `UI/UX`
+`Figma` · `UI/UX` · `Rust`
 
 ---
 
