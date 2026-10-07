@@ -16,6 +16,8 @@ Currently working mostly with TypeScript, React, Next.js, Node.js and PostgreSQL
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVilela1&layout=compact&hide_border=true&langs_count=8&hide=html,css)
+
 ### Elsewhere
 
 [Portfolio](https://davidvilela-dev.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/davidvilelawebdev/) · [Email](mailto:vileladavid112@gmail.com)
