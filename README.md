@@ -2,7 +2,7 @@
 
 **Software Developer that actually enjoys computers**
 
-I care about **how things work** and also **how things feel**.
+I care about **how things work** and also **how to use them**.
 
 Currently working mostly with TypeScript, React, Next.js, Node.js and PostgreSQL, while exploring some other fun stuff, so stick around!
 
