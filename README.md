@@ -1,6 +1,7 @@
 # David Vilela
 
 **Software Developer that actually enjoys computers**
+**Cofounder, Game Designer & Game Developer @ BlackMint Interactive**
 
 I care about **how things work** and also **how to use them**.
 
