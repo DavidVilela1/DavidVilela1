@@ -22,4 +22,6 @@ I care about **how things work** and also **how to use them**.
 
 [Portfolio](https://davidvilela-dev.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/davidvilelawebdev/) · [Email](mailto:vileladavid112@gmail.com)
 
+### Badges
+
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/DavidVilela1/badge.svg)](https://hub.xerj.org/contributors/DavidVilela1)
